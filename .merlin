@@ -1,0 +1,5 @@
+S ./_build
+
+B ./_build
+
+PKG Base Stdio
