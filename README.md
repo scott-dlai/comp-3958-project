@@ -1,7 +1,8 @@
 # Calculator in OCAML
-
+COMP3958
+Set V
 Name: Scott Lai (A01158559)
-Name: Tony Kim ()
+Name: Tony Kim (A01005796)
 
 ## Installation
 
