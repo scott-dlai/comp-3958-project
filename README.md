@@ -19,3 +19,7 @@ corebuild main.native
 ```
 then a `_build/` will be created and a file called `main.native` will be created
 in the same directory.
+
+## Usage
+
+Valid operators are `+`, `-`, `*`, `/`, `**` (exponenent operator), and brackets
