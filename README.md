@@ -6,14 +6,19 @@ Name: Tony Kim (A01005796)
 
 ## Installation
 
-*NOTE*: you'll need corebuild
+*NOTE*: you'll need corebuild and opam
 
 1. Clone this project
 ```
 git clone git@github.com:scott-dlai/comp-3958-project.git
 ```
 
-2. Building this project. Simply run:
+2. Install `menhir` with `opam`
+```
+opam install menhir
+```
+
+3. Building this project. Simply run:
 ```
 corebuild main.native
 ```
